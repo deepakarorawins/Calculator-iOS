@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="fastlane.lanes">
+    
+    
+    
+      
+      <testcase classname="fastlane.lanes" name="0: Switch to parrallel_simulator_test lane" time="0.000109">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="1: scan" time="163.888879">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="2: xchtmlreport -r test_output/Kalculator.xcresult" time="1.602636">
+        
+      </testcase>
+    
+  </testsuite>
+</testsuites>
